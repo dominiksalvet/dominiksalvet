@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My other profiles:
+
+* [Minecraft](https://www.planetminecraft.com/member/dominiksalvet)
+* [Videos](https://www.youtube.com/channel/UCYzXppB62dDM0Shg_tWSPfw)
+* [Presentations](https://speakerdeck.com/dominiksalvet)
+
 <!--
 **dominiksalvet/dominiksalvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
