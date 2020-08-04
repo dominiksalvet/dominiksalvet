@@ -3,3 +3,5 @@ Hello! :wave: I am Dominik. When I was 14 years old, I discovered redstone circu
 <p align="center">
   <a href="https://www.planetminecraft.com/member/dominiksalvet">Planet Minecraft</a>&ensp;•&ensp;<a href="https://www.youtube.com/channel/UCYzXppB62dDM0Shg_tWSPfw">YouTube</a>&ensp;•&ensp;<a href="https://speakerdeck.com/dominiksalvet">Presentations</a>
 </p>
+
+> My ultimate goal is to design a perfect processor for personal computers.
