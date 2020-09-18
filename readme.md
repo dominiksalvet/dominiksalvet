@@ -6,4 +6,4 @@ When I was 14 years old, I discovered redstone circuits in Minecraft. Two years 
   <a href="https://www.planetminecraft.com/member/dominiksalvet">Planet Minecraft</a>&ensp;•&ensp;<a href="https://www.youtube.com/channel/UCYzXppB62dDM0Shg_tWSPfw">YouTube</a>&ensp;•&ensp;<a href="https://speakerdeck.com/dominiksalvet">Speaker Deck</a>
 </p>
 
-> My ultimate goal is to design a perfect general purpose processor.
+> My ultimate goal is to design the best general purpose processor.
