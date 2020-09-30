@@ -5,5 +5,3 @@ In 2011, I discovered redstone circuits in Minecraft. Two years later, I built *
 <p align="center">
   <a href="https://www.planetminecraft.com/member/dominiksalvet">Planet Minecraft</a>&nbsp;•&nbsp;<a href="https://www.youtube.com/channel/UCYzXppB62dDM0Shg_tWSPfw">YouTube</a>&nbsp;•&nbsp;<a href="https://speakerdeck.com/dominiksalvet">Speaker Deck</a>
 </p>
-
-> My ultimate goal is to design a perfect general purpose processor.
