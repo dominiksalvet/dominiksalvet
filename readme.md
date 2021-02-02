@@ -1,6 +1,6 @@
 # Hello, I am Dominik.
 
-In 2011, I came by redstone circuits in Minecraft. Two years later, I built **my first working processor** in that game. I quickly realized that I had found something invaluable in my life. Ever since then, processor design has been my life passion. :purple_heart:
+In 2011, I came across redstone circuits in Minecraft. Two years later, I built **my first working processor** in that game. I quickly realized that I had found something invaluable in my life. Ever since then, processor design has been my life passion. :purple_heart:
 
 Despite the strong words, I have been frequently finding myself lacking the required knowledge from various processor design areas. It is the **opportunity to grow**, and I am trying to see it that way. Practice makes perfect. :rocket:
 
